@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+My name is radin, and I'm a soon to be CS student
+I'm currently learning (python, HTML, CS, JS)
+you can contact me via telegram (@PA_Radin)
 <!--
 **radin-devs/radin-devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
